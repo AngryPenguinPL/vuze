@@ -1,9 +1,9 @@
 %define	pkgname		Vuze
-%define	pkgversion	5710
+%define	pkgversion	5760
 
 Name:		vuze
-Version:	5.7.1.0
-Release:	2
+Version:	5.7.6.0
+Release:	1
 Summary:	A BitTorrent Client
 Group:		Networking/File transfer
 License:	GPLv2
